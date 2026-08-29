@@ -32,4 +32,4 @@ Jupyter Notebook
 
 connect with me on Linkedin: https://www.linkedin.com/in/arabor-okojie-9b4144376
 
-###⚠️ Educational Disclaimer: All patient records, medication details, dosage rates, formulas and limits in this project are fictional and must not be used for real medical decisions.
+### ⚠️ Educational Disclaimer: All patient records, medication details, dosage rates, formulas and limits in this project are fictional and must not be used for real medical decisions.
