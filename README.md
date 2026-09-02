@@ -41,19 +41,6 @@ Process multiple patient records using a for loop
 Generate an organized dosage report
 
 
-## Fictional Patient Records
-
-Patient	Age	Weight	Dosage Rate	Doses/Day
-
-Daniel Okafor	35	70 kg	10 mg/kg	2
-
-Grace Bello	68	60 kg	8 mg/kg	2
-
-Samuel Ade	15	50 kg	6 mg/kg	3
-
-Anita James	130	65 kg	10 mg/kg	2
-
-
 ## Project Results
 
 After processing the four fictional records:
@@ -80,9 +67,9 @@ This project helped me practice combining different Python concepts in one progr
 
 ## Tools and Technologies used
 
-Python
+**Python**
 
-Jupyter Notebook 
+**Jupyter Notebook** 
 
 connect with me on Linkedin: https://www.linkedin.com/in/arabor-okojie-9b4144376
 
