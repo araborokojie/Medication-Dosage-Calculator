@@ -2,6 +2,11 @@
 A fictional Python project created to practice basic Python concepts using a simple healthcare scenario. The program works with fictional patient information, checks whether the information is valid, calculates a sample dose using the given formula, classifies patients by age, and displays the results in a simple report.
 
 
+## Project Overview
+
+The Medication Dosage Processing System collects fictional patient information, validates patient records, calculates a sample dose using a predefined formula, classifies patients by age, determines dosage frequency, checks the fictional maximum daily dose, and generates a clear dosage report.
+
+
 ## Python Concepts Practiced
 
 Variables and data types
@@ -19,9 +24,58 @@ Local and global variable scope
 Lists, dictionaries and Boolean validation
 
 
-## Sample Processing
+## Key Features
 
-The program processes four fictional patient records and identifies validation status, calculated doses, age categories and dosage frequency.
+Validate patient age, weight and patient ID
+
+Calculate single and total daily doses
+
+Classify patients as Child, Teenager, Adult or Senior
+
+Determine dosage frequency
+
+Check the fictional maximum daily dose
+
+Process multiple patient records using a for loop
+
+Generate an organized dosage report
+
+
+## Fictional Patient Records
+
+Patient	Age	Weight	Dosage Rate	Doses/Day
+
+Daniel Okafor	35	70 kg	10 mg/kg	2
+
+Grace Bello	68	60 kg	8 mg/kg	2
+
+Samuel Ade	15	50 kg	6 mg/kg	3
+
+Anita James	130	65 kg	10 mg/kg	2
+
+
+## Project Results
+
+After processing the four fictional records:
+
+3 records passed validation
+
+1 record failed validation
+
+Daniel Okafor had the highest single dose: 700 mg
+
+Daniel Okafor had the highest daily dose: 1,400 mg
+
+Grace Bello and Anita James were classified as Senior
+
+Anita James had an invalid age of 130
+
+No record exceeded the fictional maximum daily dose of 1,500 mg
+
+
+## What I Learned
+
+This project helped me practice combining different Python concepts in one program, especially conditions, loops, functions, calculations, validation, and processing multiple records.
 
 
 ## Tools and Technologies used
